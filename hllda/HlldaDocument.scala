@@ -1,0 +1,5 @@
+package hllda
+
+class HlldaDocument {
+    
+}
